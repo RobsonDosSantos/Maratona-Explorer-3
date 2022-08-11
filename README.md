@@ -7,7 +7,7 @@ Projeto criado e modificado com base na <strong>Maratona Explorer</strong> 3 da 
 - [x] Html
 - [x] Css
 
-<h3 align="center">Github Page do Desafio
+<h3 align="center">Github Page do Projeto
 <span>:relaxed::v:</span>
 <br>:point_right:<a href="https://robsondossantos.github.io/Maratona-Explorer-3/"> É só você clicar aqui para ver o <strong>Resultado</strong></a>
 </h3>
